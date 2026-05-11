@@ -84,7 +84,7 @@ display: inline-block;
 <body>
 	<div class="main">
 		<div class="heading">
-			<img src="D:\new project\inshot\InShot_20220209_192347888.jpg" alt="img" >
+			<img src="https://github.com/darshiniraj25/personal-profile/blob/main/IMG_20220126_202849.jpg" alt="img" >
 			<h1>PRIYADARSHINI.M</h1>
 			<p>mca student, front-end developer</p>
 		</div>
