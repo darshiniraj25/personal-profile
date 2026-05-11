@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>personal profile</title>
+	<title>PERSONAL PROFILE</title>
 	<style>
 		*{
 			margin: 0;
@@ -75,10 +75,7 @@
             text-decoration: underline;
          .contact li{
 display: inline-block;
-         }
-         .contact li{
-         	text-decoration: none;
-         }
+         text-decoration:none;}
 	</style>
 </head>
 <body>
@@ -86,7 +83,7 @@ display: inline-block;
 		<div class="heading">
 			<img width="381" height="519" alt="IMG_20220126_202849" src="https://github.com/user-attachments/assets/56ffb514-e77e-4c80-bd13-3663cc34625f" />
 			<h1>PRIYADARSHINI.M</h1>
-			<p>mca student, front-end developer</p>
+			<p>MCA student, front-end developer</p>
 		</div>
 		<div class="sub">
 			<div class="sec">
