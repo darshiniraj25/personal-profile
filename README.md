@@ -13,14 +13,12 @@
 			box-align: center;
 			text-align: center;
 			font-family: cursive;	
-			
-		}body{
+			}body{
 			background-color:ghostwhite;
 			border-color: gray;
 			box-decoration-break: slice;
 			 line-height: 1.6;
 		}
-		
 		.heading{
 			background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 			text-align: center;
@@ -37,14 +35,11 @@
             display: block;
             margin: 0 auto;
             overflow: hidden;
-
 		}
 		.sec h1{
-			
 			margin: 10px;
 			color:blueviolet ;
-			
-		}
+			}
 		.sec p{
 			text-align: justify-all;
 			text-justify: center;
@@ -76,8 +71,7 @@
 			text-align: center;
 			font-family: cursive;
 			color: blueviolet;
-
-   		}
+		}
    		 .contact a:hover {
             text-decoration: underline;
          .contact li{
@@ -85,16 +79,12 @@ display: inline-block;
          }
          .contact li{
          	text-decoration: none;
-
          }
-
-
 	</style>
 </head>
 <body>
 	<div class="main">
 		<div class="heading">
-
 			<img src="D:\new project\inshot\InShot_20220209_192347888.jpg" alt="img" >
 			<h1>PRIYADARSHINI.M</h1>
 			<p>mca student, front-end developer</p>
