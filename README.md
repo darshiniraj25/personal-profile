@@ -115,6 +115,5 @@ display: inline-block;
 			<li><a href="www.linkedin.com/in/priyadarshini-priya-262b8329a">Linked-In<a><p>priyadarshini-priya</p></li>
 		</div>
 	</div>
-
 </body>
 </html>
